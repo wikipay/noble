@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[noble.qt-translation-010x]
+file_filter = src/qt/locale/noble_<lang>.ts
+source_file = src/qt/locale/noble_en.ts
+source_lang = en

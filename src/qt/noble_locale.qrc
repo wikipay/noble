@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/noble_bg.qm</file>
+        <file alias="de">locale/noble_de.qm</file>
+        <file alias="en">locale/noble_en.qm</file>
+        <file alias="es">locale/noble_es.qm</file>
+        <file alias="fi">locale/noble_fi.qm</file>
+        <file alias="fr">locale/noble_fr.qm</file>
+        <file alias="it">locale/noble_it.qm</file>
+        <file alias="ja">locale/noble_ja.qm</file>
+        <file alias="pl">locale/noble_pl.qm</file>
+        <file alias="pt">locale/noble_pt.qm</file>
+        <file alias="ru">locale/noble_ru.qm</file>
+        <file alias="sk">locale/noble_sk.qm</file>
+        <file alias="sv">locale/noble_sv.qm</file>
+        <file alias="vi">locale/noble_vi.qm</file>
+        <file alias="zh_CN">locale/noble_zh_CN.qm</file>
+        <file alias="zh_TW">locale/noble_zh_TW.qm</file>
+    </qresource>
+</RCC>

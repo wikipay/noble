@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Noble
+Comment=Noble P2P Cryptocurrency
+Comment[fr]=Noble, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Noble, eşten eşe kriptografik sanal para birimi
+Exec=noble-qt %u
+Terminal=false
+Type=Application
+Icon=noble128
+MimeType=x-scheme-handler/noble;
+Categories=Office;Finance;

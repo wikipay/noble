@@ -1,0 +1,27 @@
+# /etc/conf.d/nobled: config file for /etc/init.d/nobled
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/noble/noble.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/nobled"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/nobled.pid"
+
+# Where to write nobled data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/nobled"
+
+# User and group to own nobled process
+#BITCOIND_USER="noble"
+#BITCOIND_GROUP="noble"
+
+# Path to nobled executable
+#BITCOIND_BIN="/usr/bin/nobled"
+
+# Nice value to run nobled under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS="-disablewallet"
+
